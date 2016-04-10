@@ -60,12 +60,6 @@
 43,"signor ferrari",469,"m",63
 43,"ugarte",275,"m",38
 43,"victor laszlo",1161,"m",34
-44,"bettina peterso",119,"f",35
-44,"chuck noland",1219,"m",44
-44,"doctor",171,"m",NULL
-44,"kelly frears",429,"f",37
-44,"mom",107,"f",NULL
-44,"stan",402,"m",41
 45,"arthur rose",903,"m",47
 45,"buster",137,"m",17
 45,"candy kendall",807,"f",24
@@ -357,12 +351,12 @@
 200,"mark shermin",932,"m",31
 200,"starman",947,"m",35
 204,"clemenza",260,"m",39
+204,"Don Vito Corleo",1023,"m",48
 204,"jack woltz",217,"m",65
 204,"kay adams",377,"f",26
 204,"michael corleon",1621,"m",32
 204,"moe greene",181,"m",36
 204,"sollozzo",337,"m",44
-204,"sonny corleone",1023,"m",32
 204,"tessio",111,"m",51
 204,"tom hagen",936,"m",41
 209,"annie hayworth",827,"f",26
@@ -1604,6 +1598,13 @@
 785,"sandy pfarrer",178,"f",39
 785,"ted",522,"m",61
 785,"tuchman marsh m",114,"m",38
+789,"bettina peterso",148,"f",35
+789,"chuck noland",4034,"m",44
+789,"doctor",236,"m",NULL
+789,"kelly frears",563,"f",37
+789,"mom",156,"f",NULL
+789,"roger",121,"m",NULL
+789,"stan",565,"m",41
 790,"angel",122,"m",NULL
 790,"drina",176,"f",21
 790,"edna",1389,"f",NULL
@@ -14745,6 +14746,13 @@
 4992,"tj",335,"f",37
 4992,"victor ellis",637,"m",59
 4992,"woody",103,"m",NULL
+4995,"charles hallowa",1650,"m",61
+4995,"jim nightshade",958,"m",NULL
+4995,"miss foley",321,"f",59
+4995,"mrs. halloway",140,"f",42
+4995,"mrs. nightshade",169,"f",48
+4995,"tom fury",259,"m",61
+4995,"will halloway",1188,"m",15
 4998,"arthur biehl",293,"m",66
 4998,"desk clerk",116,"m",NULL
 4998,"dr. gerald finn",140,"m",75
@@ -16131,8 +16139,8 @@
 5499,"abraham warszaw",412,"m",NULL
 5499,"dr. miklos nyis",161,"m",54
 5499,"oberkapo bieder",186,"m",37
-5499,"oberscharführer",160,"m",NULL
-5499,"saul ausländer",468,"m",NULL
+5499,"oberscharfuhrer",160,"m",NULL
+5499,"saul auslander",468,"m",NULL
 5501,"agatha",105,"f",20
 5501,"author",1047,"m",66
 5501,"deputy kovacs",608,"m",62
@@ -17300,6 +17308,14 @@
 6515,"robert parks",520,"m",37
 6515,"strutt",155,"m",NULL
 6515,"william mccordl",331,"m",61
+6518,"eva cuza",781,"f",28
+6518,"father fonescu",313,"m",53
+6518,"glaeken",366,"m",42
+6518,"kaempffer",675,"m",33
+6518,"lutz",119,"m",32
+6518,"magda",392,"f",NULL
+6518,"radu molasar",174,"m",36
+6518,"woermann",1071,"m",42
 6522,"big evil",186,"m",NULL
 6522,"brian taylor",3166,"m",32
 6522,"captain reese",224,"m",NULL
@@ -18879,6 +18895,20 @@
 7413,"taya",1183,"f",33
 7413,"terp #1",128,"m",NULL
 7413,"young jeff kyle",157,"m",NULL
+7423,"Billy Ray Valen",3027,"m",22
+7423,"Billy Ray Valen",134,"m",79
+7423,"clarence beeks",286,"m",44
+7423,"coleman",351,"m",61
+7423,"franks",164,"m",NULL
+7423,"jr. executive #",286,"m",NULL
+7423,"kimberley",180,"f",NULL
+7423,"louis winthorpe",1882,"m",31
+7423,"mortimer duke",712,"m",75
+7423,"mr lawrence",123,"m",NULL
+7423,"newscaster",153,"m",39
+7423,"ophelia",254,"f",25
+7423,"ophelia",243,"m",44
+7423,"randolph duke",1520,"m",79
 7424,"beverly wilshir",125,"m",47
 7424,"bud herman",180,"m",55
 7424,"charlie",118,"m",35
@@ -19888,6 +19918,20 @@
 7875,"mickey",761,"m",72
 7875,"paulie",248,"m",39
 7875,"rocky balboa",2728,"m",33
+7876,"adrian",296,"f",36
+7876,"apollo creed",1836,"m",34
+7876,"Clubber Lang",1253,"m",30
+7876,"duke",149,"m",45
+7876,"mickey goldmill",1270,"m",75
+7876,"paulie",1390,"m",42
+7876,"rematch comment",385,"m",NULL
+7876,"rematch comment",226,"m",NULL
+7876,"rocky balboa",2379,"m",36
+7876,"thunderlips",245,"m",29
+7876,"title commentat",105,"m",NULL
+7876,"title ring anno",137,"m",NULL
+7876,"wrestling annou",106,"m",NULL
+7876,"wrestling comme",172,"m",59
 7877,"adrian",147,"f",44
 7877,"duke",289,"m",53
 7877,"paulie",239,"m",50
@@ -20181,14 +20225,16 @@
 7977,"lizzy murray",736,"f",39
 7977,"rygaard",695,"m",NULL
 7977,"tom 'pyro' robe",138,"m",45
-7982,"col. felix cort",1197,"m",37
-7982,"domingo chavez",550,"m",33
-7982,"ernesto escobed",518,"m",43
-7982,"FBI Agent Dan M",135,"m",NULL
-7982,"jack ryan",731,"m",52
-7982,"james cutter",662,"m",57
-7982,"john clark",524,"m",39
-7982,"President Benne",153,"m",64
+7983,"adm. james gree",510,"m",63
+7983,"Cathy Muller Ry",179,"f",47
+7983,"col. felix cort",415,"m",37
+7983,"diaz",155,"m",NULL
+7983,"ernesto escobed",332,"m",43
+7983,"fbi director em",111,"m",49
+7983,"Jack Ryan",1568,"m",52
+7983,"John Clark",441,"m",39
+7983,"President Benne",291,"m",64
+7983,"robert ritter",420,"m",35
 7984,"'baby' brent",297,"m",31
 7984,"cloudy with a c",525,"m",NULL
 7984,"earl devereaux",453,"m",57
@@ -20598,6 +20644,17 @@
 8177,"solomon kane",2942,"m",45
 8177,"stable master",117,"m",NULL
 8177,"william crowtho",539,"m",63
+8189,"buddy repperton",256,"m",24
+8189,"christine",289,"f",NULL
+8189,"chuck",265,"m",NULL
+8189,"dennis guilder",2211,"m",22
+8189,"george lebay",313,"m",59
+8189,"leigh cabot",1103,"f",20
+8189,"michael cunning",117,"m",53
+8189,"Moochie",259,"m",21
+8189,"mr. casey",155,"m",44
+8189,"regina cunningh",301,"f",34
+8189,"will darnell",624,"m",53
 8192,"beth mcintyre",927,"f",23
 8192,"hudson 'hud' pl",1804,"m",27
 8192,"jason hawkins",782,"m",29
@@ -20807,6 +20864,17 @@
 8257,"pig",381,"m",NULL
 8257,"runty man",221,"m",NULL
 8257,"yellow horse",216,"m",NULL
+8268,"deputy pool",183,"m",NULL
+8268,"Dr. Bill Raymon",1019,"m",53
+8268,"judge",353,"m",60
+8268,"kim",113,"f",NULL
+8268,"lila loomis",540,"f",54
+8268,"mary loomis",3046,"f",23
+8268,"Mrs. Emma Spool",141,"f",65
+8268,"norman bates",3105,"m",51
+8268,"Ralph Statler",204,"m",NULL
+8268,"sheriff john hu",711,"m",58
+8268,"Warren Toomey",422,"m",39
 8274,"bob diamond",3648,"m",60
 8274,"comedian",108,"m",NULL
 8274,"daniel miller",4458,"m",44
@@ -21362,6 +21430,19 @@
 8560,"reverend hardy",146,"m",NULL
 8560,"ukwende",329,"m",NULL
 8560,"wayne hoobler",1057,"m",26
+8562,"crabbe",269,"m",60
+8562,"felix happer",801,"m",70
+8562,"geddes",294,"m",59
+8562,"gideon",139,"m",NULL
+8562,"mac",1254,"m",36
+8562,"marina",255,"f",26
+8562,"moritz",603,"m",NULL
+8562,"mrs fraser",140,"f",47
+8562,"oldsen",859,"m",25
+8562,"rev macpherson",150,"m",42
+8562,"roddy",199,"m",25
+8562,"urquhart",1471,"m",36
+8562,"victor",411,"m",40
 8564,"alex vogel",378,"m",40
 8564,"annie montrose",542,"f",42
 8564,"beth johanssen",671,"f",32
